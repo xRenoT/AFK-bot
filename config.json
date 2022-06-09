@@ -1,7 +1,7 @@
 {
 	"ip":"lanternfish.aternos.host:53348",
 	"port": 53348,
-	"name": "afkbot1",
+	"name": "afkbot1511",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
